@@ -763,12 +763,6 @@ footer {
 }
 
 @media (max-width: 355px) {
-  .place input {
-    padding-left: 0px;
-    font-size: 0.9em;
-    height: 42px;
-  }
-
   .filterTextIcons {
     padding-left: 10px;
   }
